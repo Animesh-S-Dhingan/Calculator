@@ -1,0 +1,25 @@
+.container {
+  background-color: gray;
+  width: 370px;
+  border-radius: 13px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.items-center {
+  align-items: center;
+}
